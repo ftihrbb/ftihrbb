@@ -8,10 +8,6 @@
 
 ## About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/1.png" alt="About Heading" width="600" />
-</div>
-
 I'm Fatih, a 14-year-old student from Indonesia with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
 
 Currently, I'm focused on:
@@ -25,10 +21,6 @@ I'm looking for **opportunities to grow** — whether through mentorship, schola
 ---
 
 ## My Skills & Tools
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/2.png" alt="Skills Heading" width="600" />
-</div>
 
 **Languages:**  
 JavaScript • HTML • CSS • Python
@@ -44,10 +36,6 @@ VS Code • Figma • Canva • Microsoft PowerPoint
 ## Activity & Progress
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/3.png" alt="Stats Heading" width="600" />
-</div>
-
-<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftihrbb&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=888888&border_color=30363d&border_radius=0)](https://github.com/ftihrbb)
 
@@ -59,10 +47,6 @@ VS Code • Figma • Canva • Microsoft PowerPoint
 
 ## Contributions
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/4.png" alt="Contributions Heading" width="600" />
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
 </p>
@@ -70,10 +54,6 @@ VS Code • Figma • Canva • Microsoft PowerPoint
 ---
 
 ## Get in Touch
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/5.png" alt="Contact Heading" width="600" />
-</div>
 
 <div align="center">
 
