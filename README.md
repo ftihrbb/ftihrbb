@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-  <img src="images/download-removebg-preview (1).png" alt="Profile" width="200" />
+  <div class="tenor-gif-embed" data-postid="17391663108480335793" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oiia-cat-oiia-cat-meme-cat-meme-gif-17391663108480335793">Oiia Cat Sticker</a>from <a href="https://tenor.com/search/oiia-stickers">Oiia Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </td>
 <td width="70%">
 
