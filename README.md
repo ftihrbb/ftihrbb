@@ -37,9 +37,18 @@ VS Code • Figma • Canva • Microsoft PowerPoint
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftihrbb&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=888888&border_color=30363d&border_radius=0)](https://github.com/ftihrbb)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ftihrbb&theme=dark&background=0d1117&currStreakNum=c9d1d9&sideNums=888888&ring=c9d1d9&fire=ff6b6b&border=30363d)](https://github.com/ftihrbb)
+<table>
+<tr>
+<td align="center">
+  <strong>📊 GitHub Stats</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ftihrbb&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=888888&border_color=30363d&border_radius=0" alt="GitHub Stats" />
+</td>
+<td align="center">
+  <strong>🔥 Streak Stats</strong><br>
+  <img src="https://streak-stats.demolab.com?user=ftihrbb&theme=dark&background=0d1117&currStreakNum=c9d1d9&sideNums=888888&ring=c9d1d9&fire=ff6b6b&border=30363d" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
 </div>
 
