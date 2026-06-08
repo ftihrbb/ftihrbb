@@ -39,22 +39,26 @@ I'm looking for **opportunities to grow** — whether through mentorship, schola
 
 ### TECHSTACK
 
-<table>
-<tr>
-<td width="33%" align="center">
-  <strong>Frontend</strong><br><br>
-  <code>REACT.JS</code> • <code>VUE.JS</code> • <code>JAVASCRIPT</code> • <code>HTML5</code> • <code>CSS3</code>
-</td>
-<td width="33%" align="center">
-  <strong>Backend & Tools</strong><br><br>
-  <code>PYTHON</code> • <code>VS CODE</code> • <code>GIT</code>
-</td>
-<td width="33%" align="center">
-  <strong>Design & Productivity</strong><br><br>
-  <code>FIGMA</code> • <code>CANVA</code> • <code>MICROSOFT POWERPOINT</code>
-</td>
-</tr>
-</table>
+#### 🎨 Frontend
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&color=transparent&borderColor=white&border=2" alt="React.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&color=transparent&borderColor=white&border=2" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=transparent&borderColor=white&border=2" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white&color=transparent&borderColor=white&border=2" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=transparent&borderColor=white&border=2" alt="CSS3" />
+</div>
+
+#### 💻 Backend & Tools
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=transparent&borderColor=white&border=2" alt="Python" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&color=transparent&borderColor=white&border=2" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=transparent&borderColor=white&border=2" alt="Git" />
+</div>
+
+#### 🎯 Design
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&color=transparent&borderColor=white&border=2" alt="Figma" />
+</div>
 
 </div>
 
