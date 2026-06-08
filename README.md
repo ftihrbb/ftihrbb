@@ -32,6 +32,10 @@
 
 ## ⚠️ ERROR: AGE_VARIABLE_INSUFFICIENT // CRITICAL_SKILL_DETECTED
 
+<div align="center">
+  <img src="../image/ERROR AGE_VARIABLE_INSUFFICIENT  CRITICAL_SKILL_DETECTED.png" alt="Error Heading" width="600" />
+</div>
+
 The standard academic timeline is too slow. While currently operating within the parameters of **Junior High School (SMP)**, my core processor has been self-optimized for advanced tech deployment. I do not just consume code—I **dissect and deploy it**.
 
 I possess a rare blend of **extreme self-discipline** and an **insatiable appetite to learn everything**. My commitment to vertical and horizontal skill acquisition is absolute. I am actively seeking:
@@ -46,6 +50,10 @@ Don't measure my potential by my birthdate. Measure it by my **commits, consiste
 ---
 
 ## 🗄️ CORE_SYSTEM_FILES // TECH_STACK
+
+<div align="center">
+  <img src="../image/CORE_SYSTEM_FILES.png" alt="Core System Files Heading" width="600" />
+</div>
 
 ```shell
 $ sys_info --get-capabilities
@@ -65,6 +73,10 @@ $ sys_info --get-capabilities
 ## 📊 LIVE_METRICS // CORE_ACTIVITY
 
 <div align="center">
+  <img src="../image/LIVE_METRICS.png" alt="Live Metrics Heading" width="600" />
+</div>
+
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftihrbb&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=888888&border_color=30363d&border_radius=0)](https://github.com/ftihrbb)
 
@@ -75,7 +87,9 @@ $ sys_info --get-capabilities
 ---
 
 ## � CONTRIBUTION_MATRIX // ACTIVITY_HEATMAP
-
+<div align="center">
+  <img src="../image/CONTRIBUTION_MATRIX.png" alt="Contribution Matrix Heading" width="600" />
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/output/github-contribution-grid-snake-dark.svg" alt="Fatih's Cyber Snake" />
 </p>
@@ -84,8 +98,10 @@ $ sys_info --get-capabilities
 
 ## �📡 ESTABLISH_UPLINK // CONTACT_PROTOCOLS
 
-<div align="center">
+<div align="center">  <img src="../image/ESTABLISH_UPLINK.png" alt="Establish Uplink Heading" width="600" />
+</div>
 
+<div align="center">
 ```yaml
 # ENCRYPTION KEYS NOT REQUIRED FOR STANDARD UPLINK
 ---
