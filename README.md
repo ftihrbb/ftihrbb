@@ -20,7 +20,8 @@
 I'm a **14-year-old student from Indonesia** with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
 
 **Currently, I'm focused on:**
-- Learning **Fundamentals**
+- Learning **fundamental
+- **
 - Building **small projects** to apply what I've learned
 - Understanding **best practices** in coding and design
 - Exploring different areas of tech to find what interests me most
@@ -35,16 +36,28 @@ I'm looking for **opportunities to grow** — whether through mentorship, schola
 
 ## My Skills & Tools
 
-**Languages:**  
-JavaScript • HTML • CSS • Python
+<div align="center">
 
-**Frameworks & Libraries:**  
-React.js • Vue.js
+### TECHSTACK
 
-**Tools & Platforms:**  
-VS Code • Figma • Canva • Microsoft PowerPoint
+<table>
+<tr>
+<td width="33%" align="center">
+  <strong>Frontend</strong><br><br>
+  <code>REACT.JS</code> • <code>VUE.JS</code> • <code>JAVASCRIPT</code> • <code>HTML5</code> • <code>CSS3</code>
+</td>
+<td width="33%" align="center">
+  <strong>Backend & Tools</strong><br><br>
+  <code>PYTHON</code> • <code>VS CODE</code> • <code>GIT</code>
+</td>
+<td width="33%" align="center">
+  <strong>Design & Productivity</strong><br><br>
+  <code>FIGMA</code> • <code>CANVA</code> • <code>MICROSOFT POWERPOINT</code>
+</td>
+</tr>
+</table>
 
----
+</div>
 
 ## Activity & Progress
 
