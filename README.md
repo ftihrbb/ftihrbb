@@ -20,7 +20,7 @@
 I'm a **14-year-old student from Indonesia** with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
 
 **Currently, I'm focused on:**
-- Learning **modern web development** with JavaScript and Python
+- Learning **Fundamentals**
 - Building **small projects** to apply what I've learned
 - Understanding **best practices** in coding and design
 - Exploring different areas of tech to find what interests me most
