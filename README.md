@@ -8,15 +8,28 @@
 
 ## About Me
 
-I'm Fatih, a 14-year-old student from Indonesia with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
+<table>
+<tr>
+<td width="30%" align="center">
+  <img src="images/download-removebg-preview (1).png" alt="Profile" width="200" />
+</td>
+<td width="70%">
 
-Currently, I'm focused on:
+### Hey there! I'm Fatih 👋
+
+I'm a **14-year-old student from Indonesia** with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
+
+**Currently, I'm focused on:**
 - Learning **modern web development** with JavaScript and Python
 - Building **small projects** to apply what I've learned
 - Understanding **best practices** in coding and design
 - Exploring different areas of tech to find what interests me most
 
 I'm looking for **opportunities to grow** — whether through mentorship, scholarships, or collaborative projects where I can contribute and learn simultaneously.
+
+</td>
+</tr>
+</table>
 
 ---
 
