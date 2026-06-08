@@ -17,6 +17,14 @@
 
 ---
 
+<div align="center">
+
+<!-- Custom Heading Image Placeholder -->
+
+</div>
+
+---
+
 > *"Beneath every choice, there's either a one or a zero. You either do something or you don't."*  
 > — **Mr. Robot**
 
@@ -66,7 +74,15 @@ $ sys_info --get-capabilities
 
 ---
 
-## 📡 ESTABLISH_UPLINK // CONTACT_PROTOCOLS
+## � CONTRIBUTION_MATRIX // ACTIVITY_HEATMAP
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/output/github-contribution-grid-snake-dark.svg" alt="Fatih's Cyber Snake" />
+</p>
+
+---
+
+## �📡 ESTABLISH_UPLINK // CONTACT_PROTOCOLS
 
 <div align="center">
 
