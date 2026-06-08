@@ -33,7 +33,7 @@
 ## ⚠️ ERROR: AGE_VARIABLE_INSUFFICIENT // CRITICAL_SKILL_DETECTED
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/ERROR%20AGE_VARIABLE_INSUFFICIENT%20%20CRITICAL_SKILL_DETECTED.png" alt="Error Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/1.png" alt="Error Heading" width="600" />
 </div>
 
 The standard academic timeline is too slow. While currently operating within the parameters of **Junior High School (SMP)**, my core processor has been self-optimized for advanced tech deployment. I do not just consume code—I **dissect and deploy it**.
@@ -52,7 +52,7 @@ Don't measure my potential by my birthdate. Measure it by my **commits, consiste
 ## 🗄️ CORE_SYSTEM_FILES // TECH_STACK
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/CORE_SYSTEM_FILES.png" alt="Core System Files Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/2.png" alt="Core System Files Heading" width="600" />
 </div>
 
 ```shell
@@ -73,7 +73,7 @@ $ sys_info --get-capabilities
 ## 📊 LIVE_METRICS // CORE_ACTIVITY
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/LIVE_METRICS.png" alt="Live Metrics Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/3.png" alt="Live Metrics Heading" width="600" />
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@ $ sys_info --get-capabilities
 ## � CONTRIBUTION_MATRIX // ACTIVITY_HEATMAP
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/CONTRIBUTION_MATRIX.png" alt="Contribution Matrix Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/4.png" alt="Contribution Matrix Heading" width="600" />
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/output/github-contribution-grid-snake-dark.svg" alt="Fatih's Cyber Snake" />
@@ -100,7 +100,7 @@ $ sys_info --get-capabilities
 ## �📡 ESTABLISH_UPLINK // CONTACT_PROTOCOLS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/ESTABLISH_UPLINK.png" alt="Establish Uplink Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/5.png" alt="Establish Uplink Heading" width="600" />
 </div>
 
 <div align="center">
