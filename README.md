@@ -1,79 +1,50 @@
 <div align="center">
 
-```
-          __                      __
-   ______/ /_   ________  _______/ /__
-  / ___/ _  /  / ___/ / / / ___/ _  /
- / /  / // /  / /__/ /_/ / /__/ // /
-/_/   \___/   \___/\__, /\___/\___/
-                  /____/
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&lines=Hi%2C+I'm+Fatih;A+14+Year+Old+Developer;Always+Learning%2C+Always+Building" alt="Intro" />
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=%3E_INITIALIZING_SYSTEM...;%3E_CONFIRMING_IDENTITY:_FATIH;%3E_STATUS:_GENERALIST_EXPLORER;%3E_PROTOCOL:_LEARN_EVERYTHING" alt="Cyber Typing Interface" />
-
----
+## About Me
 
 <div align="center">
-
-<!-- Custom Heading Image Placeholder -->
-
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/1.png" alt="About Heading" width="600" />
 </div>
 
+I'm Fatih, a 14-year-old student from Indonesia with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
+
+Currently, I'm focused on:
+- Learning **modern web development** with JavaScript and Python
+- Building **small projects** to apply what I've learned
+- Understanding **best practices** in coding and design
+- Exploring different areas of tech to find what interests me most
+
+I'm looking for **opportunities to grow** — whether through mentorship, scholarships, or collaborative projects where I can contribute and learn simultaneously.
+
 ---
 
-> *"Beneath every choice, there's either a one or a zero. You either do something or you don't."*  
-> — **Mr. Robot**
-
----
-
-## ⚠️ ERROR: AGE_VARIABLE_INSUFFICIENT // CRITICAL_SKILL_DETECTED
+## My Skills & Tools
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/1.png" alt="Error Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/2.png" alt="Skills Heading" width="600" />
 </div>
 
-The standard academic timeline is too slow. While currently operating within the parameters of **Junior High School (SMP)**, my core processor has been self-optimized for advanced tech deployment. I do not just consume code—I **dissect and deploy it**.
+**Languages:**  
+JavaScript • HTML • CSS • Python
 
-I possess a rare blend of **extreme self-discipline** and an **insatiable appetite to learn everything**. My commitment to vertical and horizontal skill acquisition is absolute. I am actively seeking:
+**Frameworks & Libraries:**  
+React.js • Vue.js
 
-- 🎓 **Tech scholarship programs** for exceptional early talent
-- 👨‍🔬 **Visionary mentorships** from industry pioneers  
-- 💼 **Early opportunity deployment** where rapid learning and deep passion are leveraged
-- 🤝 **High-impact collaborations** on meaningful, forward-thinking projects
-
-Don't measure my potential by my birthdate. Measure it by my **commits, consistency, and capability**.
+**Tools & Platforms:**  
+VS Code • Figma • Canva • Microsoft PowerPoint
 
 ---
 
-## 🗄️ CORE_SYSTEM_FILES // TECH_STACK
+## Activity & Progress
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/2.png" alt="Core System Files Heading" width="600" />
-</div>
-
-```shell
-$ sys_info --get-capabilities
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[LANGUAGES]        >>> JavaScript | HTML | CSS | Python
-[FRAMEWORKS]       >>> React.js | Vue.js  
-[WORKSPACE]        >>> VS Code | Figma | Canva
-[PRODUCTIVITY]     >>> Advanced Microsoft PowerPoint (PPT)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 📊 LIVE_METRICS // CORE_ACTIVITY
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/3.png" alt="Live Metrics Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/3.png" alt="Stats Heading" width="600" />
 </div>
 
 <div align="center">
@@ -86,34 +57,30 @@ $ sys_info --get-capabilities
 
 ---
 
-## � CONTRIBUTION_MATRIX // ACTIVITY_HEATMAP
+## Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/4.png" alt="Contribution Matrix Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/4.png" alt="Contributions Heading" width="600" />
 </div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/output/github-contribution-grid-snake-dark.svg" alt="Fatih's Cyber Snake" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
 </p>
 
 ---
 
-## �📡 ESTABLISH_UPLINK // CONTACT_PROTOCOLS
+## Get in Touch
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/5.png" alt="Establish Uplink Heading" width="600" />
+  <img src="https://raw.githubusercontent.com/ftihrbb/ftihrbb/main/image/5.png" alt="Contact Heading" width="600" />
 </div>
 
 <div align="center">
-```yaml
-# ENCRYPTION KEYS NOT REQUIRED FOR STANDARD UPLINK
----
-NETWORK_CONFIGURATION:
-  INSTAGRAM:     "@ftihrbb"
-  DISCORD:       "pngnhjrah"
-  STATUS:        "ACTIVE & MONITORING"
-  RESPONSE_TIME: "MINIMAL"
-...
-```
+
+Feel free to reach out if you'd like to collaborate, mentor, or discuss opportunities:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ftihrbb)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pngnhjrah)
 
 </div>
 
@@ -121,10 +88,7 @@ NETWORK_CONFIGURATION:
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   STATUS: ALWAYS LEARNING | ALWAYS GROWING | ALWAYS FORWARD
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**Let's build something great together.**  
+*Code is how I learn. Every day is a chance to get better.*
 
 </div>
