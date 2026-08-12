@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=180&section=header&text=Fatih&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Data%20%26%20AI%20in%20progress%20%C2%B7%20Indonesia&descAlignY=54&descSize=18" width="100%" alt="banner" />
+<img src="images/banner.svg" width="100%" alt="Fatih — Data & AI in progress, Indonesia" />
 
 <div align="center">
 
@@ -99,4 +99,4 @@ I'd love to hear from you — especially if you work in **data or AI** and are o
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" alt="footer" />
+<img src="images/footer.svg" width="100%" alt="" />
