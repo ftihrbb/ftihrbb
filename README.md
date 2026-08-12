@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&lines=Hi%2C+I'm+Fatih;A+14+Year+Old+Developer;Always+Learning%2C+Always+Building" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&lines=Hi%2C+I'm+Fatih;A+Year+Old+Developer;Always+Learning%2C+Always+Building" alt="Intro" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### Hey there! I'm Fatih 👋
 
-I'm a **14-year-old student from Indonesia** with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
+I'm a **-year-old student from Indonesia** with a strong passion for technology and programming. I'm still learning the fundamentals, but I have solid basics in web development and I'm committed to improving my skills every day.
 
 **Currently, I'm focused on:**
 - Learning **fundalmentals**
